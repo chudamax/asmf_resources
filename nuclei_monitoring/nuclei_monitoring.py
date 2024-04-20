@@ -155,6 +155,7 @@ def main():
     config_path = os.path.join(current_dir, 'settings.yml')
     with open(config_path, 'r') as file:
         settings = yaml.safe_load(file)
+
     cache_filepath = os.path.join(current_dir, settings['cache_file'])
 
     # settings = {
@@ -168,7 +169,7 @@ def main():
     nuclei_manager = NucleiTemplateManager(
         repo_url=settings['repository']['url'],
         repo_local_path=settings['repository']['local_path'],
-        templates_file_path = cache_filepath)
+        templates_file_path = cache_filepath
     )
 
     hours = args.hours
