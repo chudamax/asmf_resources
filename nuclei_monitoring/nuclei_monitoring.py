@@ -167,7 +167,7 @@ def main():
     nuclei_manager = NucleiTemplateManager(
         repo_url=settings['repository']['url'],
         repo_local_path=settings['repository']['local_path'],
-        templates_file_path = settings['cache_file']
+        templates_file_path = os.path.join(current_dir, settings['cache_file'])
     )
 
     hours = args.hours
