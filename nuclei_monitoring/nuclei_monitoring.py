@@ -155,6 +155,7 @@ def main():
     config_path = os.path.join(current_dir, 'settings.yml')
     with open(config_path, 'r') as file:
         settings = yaml.safe_load(file)
+    cache_filepath = os.path.join(current_dir, settings['cache_file'])
 
     # settings = {
     #     'repository': {
@@ -167,7 +168,7 @@ def main():
     nuclei_manager = NucleiTemplateManager(
         repo_url=settings['repository']['url'],
         repo_local_path=settings['repository']['local_path'],
-        templates_file_path = os.path.join(current_dir, settings['cache_file'])
+        templates_file_path = cache_filepath)
     )
 
     hours = args.hours
@@ -182,7 +183,7 @@ def main():
         category = []
 
     nuclei_manager.load_data_for_last_hours(hours)
-    nuclei_manager.save_templates(settings['cache_file'])
+    nuclei_manager.save_templates(cache_filepath)
 
     all_templates = nuclei_manager.get_templates().values()
     filtered_templates = [template for template in all_templates if filter_templates(template, category, severity, hours)]
