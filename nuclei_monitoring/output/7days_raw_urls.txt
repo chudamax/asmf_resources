@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/pgsql-empty-password.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/algonomia-panel.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/cves/2023/CVE-2023-48795.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/tibco-spotfire-services-detect.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/other/user-management-system-sqli.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-3400.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/phpipam-installer.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/sentinel-license-monitor.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposures/files/ht-deployment.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/urbackup-panel.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/takeovers/uptime-takeover.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/takeovers/helpdocs-takeover.yaml
