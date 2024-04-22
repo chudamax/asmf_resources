@@ -31129,5 +31129,23 @@
         "category": "http",
         "severity": "critical",
         "description": "CatfishCMS 4.8.54 contains a remote command execution vulnerability in the \"method\" parameter.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/misconfiguration/jupyter-ipython-unauth.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/jupyter-ipython-unauth.yaml",
+        "name": "jupyter-ipython-unauth",
+        "category": "http",
+        "severity": "critical",
+        "description": "Jupyter was able to be accessed without authentication."
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/misconfiguration/jupyter-lab-unauth.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/jupyter-lab-unauth.yaml",
+        "name": "jupyter-lab-unauth",
+        "category": "http",
+        "severity": "critical",
+        "description": "JupyterLab was able to be accessed without authentication.\n"
     }
 ]
