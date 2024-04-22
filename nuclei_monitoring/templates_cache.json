@@ -31111,5 +31111,14 @@
         "category": "http",
         "severity": "info",
         "description": "UiPath Orchestrator login panel was detected.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/technologies/default-glassfish-server-page.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/default-glassfish-server-page.yaml",
+        "name": "default-glassfish-server-page",
+        "category": "http",
+        "severity": "info",
+        "description": "No description available."
     }
 ]
