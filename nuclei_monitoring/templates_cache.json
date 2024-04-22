@@ -31120,5 +31120,14 @@
         "category": "http",
         "severity": "info",
         "description": "No description available."
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/cnvd/2019/CNVD-2019-06255.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cnvd/2019/CNVD-2019-06255.yaml",
+        "name": "CNVD-2019-06255",
+        "category": "http",
+        "severity": "critical",
+        "description": "CatfishCMS 4.8.54 contains a remote command execution vulnerability in the \"method\" parameter.\n"
     }
 ]
