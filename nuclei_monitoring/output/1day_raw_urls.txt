@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/bmc/bmc-remedy-sso-panel.yaml
