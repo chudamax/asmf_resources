@@ -30913,5 +30913,203 @@
         "category": "http",
         "severity": "critical",
         "description": "In Flowmon versions prior to 11.1.14 and 12.3.5, an operating system command injection vulnerability has been identified. An unauthenticated user can gain entry to the system via the Flowmon management interface, allowing for the execution of arbitrary system commands.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/cnvd/2021/CNVD-2021-49104.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cnvd/2021/CNVD-2021-49104.yaml",
+        "name": "CNVD-2021-49104",
+        "category": "http",
+        "severity": "critical",
+        "description": "The Pan Wei Micro E-office version running allows arbitrary file uploads from a remote attacker."
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/cves/2012/CVE-2012-1823.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2012/CVE-2012-1823.yaml",
+        "name": "CVE-2012-1823",
+        "category": "http",
+        "severity": "high",
+        "description": "sapi/cgi/cgi_main.c in PHP before 5.3.12 and 5.4.x before 5.4.2, when configured as a CGI script (aka php-cgi), does not properly handle query strings that lack an = (equals sign) character, which allows remote attackers to execute arbitrary code by placing command-line options in the query string, related to lack of skipping a certain php_getopt for the 'd' case.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/cves/2017/CVE-2017-6090.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2017/CVE-2017-6090.yaml",
+        "name": "CVE-2017-6090",
+        "category": "http",
+        "severity": "high",
+        "description": "PhpCollab 2.5.1 and earlier allows remote authenticated users to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in logos_clients/ via clients/editclient.php."
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/cves/2021/CVE-2021-24145.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2021/CVE-2021-24145.yaml",
+        "name": "CVE-2021-24145",
+        "category": "http",
+        "severity": "high",
+        "description": "WordPress Modern Events Calendar Lite plugin before 5.16.5 is susceptible to authenticated arbitrary file upload. The plugin does not properly check the imported file, allowing PHP files to be uploaded and/or executed by an administrator or other high-privilege user using the text/csv content-type in the request. This can possibly lead to remote code execution.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/cves/2021/CVE-2021-36260.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2021/CVE-2021-36260.yaml",
+        "name": "CVE-2021-36260",
+        "category": "http",
+        "severity": "critical",
+        "description": "Certain Hikvision products contain a command injection vulnerability in the web server due to the insufficient input validation. An attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands."
+    },
+    {
+        "creation_time": "2023-05-06T17:42:20+05:30",
+        "filepath": "http/cves/2022/CVE-2022-4328.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2022/CVE-2022-4328.yaml",
+        "name": "CVE-2022-4328",
+        "category": "http",
+        "severity": "critical",
+        "description": "The WooCommerce Checkout Field Manager WordPress plugin before 18.0 does not validate files to be uploaded, which could allow unauthenticated attackers to upload arbitrary files such as PHP on the server.\n"
+    },
+    {
+        "creation_time": "2023-06-25T22:28:59+05:30",
+        "filepath": "http/cves/2023/CVE-2023-33440.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-33440.yaml",
+        "name": "CVE-2023-33440",
+        "category": "http",
+        "severity": "high",
+        "description": "Sourcecodester Faculty Evaluation System v1.0 is vulnerable to arbitrary code execution via /eval/ajax.php?action=save_user.\n"
+    },
+    {
+        "creation_time": "2023-07-29T02:36:02+05:30",
+        "filepath": "http/cves/2023/CVE-2023-35885.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-35885.yaml",
+        "name": "CVE-2023-35885",
+        "category": "http",
+        "severity": "critical",
+        "description": "CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/vulnerabilities/other/core-chuangtian-cloud-rce.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/other/core-chuangtian-cloud-rce.yaml",
+        "name": "core-chuangtian-cloud-rce",
+        "category": "http",
+        "severity": "critical",
+        "description": "Core Chuangtian Cloud Desktop System is susceptible to remote code execution vulnerabilities."
+    },
+    {
+        "creation_time": "2023-09-05T17:55:45+05:30",
+        "filepath": "http/vulnerabilities/ruijie/ruijie-nbr-fileupload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/ruijie/ruijie-nbr-fileupload.yaml",
+        "name": "ruijie-nbr-fileupload",
+        "category": "http",
+        "severity": "critical",
+        "description": "Ruijie NBR router fileupload.php file has an arbitrary file upload vulnerability. An attacker can upload any file to the server through the vulnerability to obtain server permissions.\n"
+    },
+    {
+        "creation_time": "2023-09-05T17:55:45+05:30",
+        "filepath": "http/vulnerabilities/secworld/secgate-3600-file-upload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/secworld/secgate-3600-file-upload.yaml",
+        "name": "secgate-3600-file-upload",
+        "category": "http",
+        "severity": "critical",
+        "description": "There is an arbitrary file upload vulnerability in the obj_app_upfile interface of Internet SecGate 3600 firewall. An attacker can obtain server permissions by constructing a special request package.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/vulnerabilities/thinkcmf/thinkcmf-rce.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/thinkcmf/thinkcmf-rce.yaml",
+        "name": "thinkcmf-rce",
+        "category": "http",
+        "severity": "critical",
+        "description": "ThinkCMF  is susceptible to a remote code execution vulnerability."
+    },
+    {
+        "creation_time": "2023-09-15T00:41:38+05:30",
+        "filepath": "http/vulnerabilities/tongda/tongda-action-uploadfile.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/tongda/tongda-action-uploadfile.yaml",
+        "name": "tongda-action-uploadfile",
+        "category": "http",
+        "severity": "critical",
+        "description": "Tongda OA v2017 action_upload.php file filtering is insufficient and does not require background permissions, resulting in arbitrary file upload vulnerabilities\n"
+    },
+    {
+        "creation_time": "2023-09-13T16:52:00+05:30",
+        "filepath": "http/vulnerabilities/weaver/weaver-group-xml-sqli.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/weaver/weaver-group-xml-sqli.yaml",
+        "name": "weaver-group-xml-sqli",
+        "category": "http",
+        "severity": "critical",
+        "description": "There is a SQL injection vulnerability in the Panwei OA E-Office group_xml.php file. Through the vulnerability, an attacker can write to the Webshell file to obtain server permissions.\n"
+    },
+    {
+        "creation_time": "2023-09-13T16:52:00+05:30",
+        "filepath": "http/vulnerabilities/weaver/weaver-lazyuploadify-file-upload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/weaver/weaver-lazyuploadify-file-upload.yaml",
+        "name": "weaver-lazyuploadify-file-upload",
+        "category": "http",
+        "severity": "critical",
+        "description": "OA E-Office LazyUploadify is vulnerable to arbitrary file upload."
+    },
+    {
+        "creation_time": "2023-09-13T16:52:00+05:30",
+        "filepath": "http/vulnerabilities/weaver/weaver-office-server-file-upload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/weaver/weaver-office-server-file-upload.yaml",
+        "name": "weaver-office-server-file-upload",
+        "category": "http",
+        "severity": "critical",
+        "description": "OA E-Office OfficeServer.php has an arbitrary file upload vulnerability. Attackers can obtain sensitive information on the server through the vulnerability.\n"
+    },
+    {
+        "creation_time": "2023-09-13T16:52:00+05:30",
+        "filepath": "http/vulnerabilities/weaver/weaver-uploadify-file-upload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/weaver/weaver-uploadify-file-upload.yaml",
+        "name": "weaver-uploadify-file-upload",
+        "category": "http",
+        "severity": "critical",
+        "description": "OA E-Office Uploadify is vulnerable to arbitrary file upload."
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/vulnerabilities/wordpress/3dprint-arbitrary-file-upload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/wordpress/3dprint-arbitrary-file-upload.yaml",
+        "name": "3dprint-arbitrary-file-upload",
+        "category": "http",
+        "severity": "high",
+        "description": "WordPress 3DPrint Lite plugin before 1.9.1.5 contains an arbitrary file upload vulnerability. The p3dlite_handle_upload AJAX action of the plugin does not have any authorization and does not check the uploaded file. An attacker can upload arbitrary files to the server, which in turn can be used to make the application execute file content as code, As a result, an attacker can possibly obtain sensitive information, modify data, and/or execute unauthorized operations.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/vulnerabilities/wordpress/ait-csv-import-export-rce.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/wordpress/ait-csv-import-export-rce.yaml",
+        "name": "ait-csv-import-export-rce",
+        "category": "http",
+        "severity": "critical",
+        "description": "The AIT CSV Import/Export plugin <= 3.0.3 allows unauthenticated remote attackers to upload and execute arbitrary PHP code. The upload-handler does not require authentication, nor validates the uploaded content.\n"
+    },
+    {
+        "creation_time": "2023-04-27T09:58:59+05:30",
+        "filepath": "http/vulnerabilities/wordpress/wordpress-rce-simplefilelist.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/wordpress/wordpress-rce-simplefilelist.yaml",
+        "name": "wordpress-rce-simplefilelist",
+        "category": "http",
+        "severity": "critical",
+        "description": "Simple File List WordPress plugin was found to be vulnerable to an unauthenticated arbitrary file upload leading to remote code execution. The Python exploit first uploads a file containing PHP code but with a png image file extension. A second request is sent to move (rename) the png file to a PHP file.\n"
+    },
+    {
+        "creation_time": "2023-10-20T18:17:13+05:30",
+        "filepath": "http/vulnerabilities/wordpress/wp-kadence-blocks-rce.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/wordpress/wp-kadence-blocks-rce.yaml",
+        "name": "wp-kadence-blocks-rce",
+        "category": "http",
+        "severity": "critical",
+        "description": "The Kadence Blocks for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the process_fields function in versions up to, and including, 3.1.10. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.\n"
+    },
+    {
+        "creation_time": "2024-04-21T18:19:20+02:00",
+        "filepath": "http/exposed-panels/uipath-orchestrator-panel.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/uipath-orchestrator-panel.yaml",
+        "name": "uipath-orchestrator-panel",
+        "category": "http",
+        "severity": "info",
+        "description": "UiPath Orchestrator login panel was detected.\n"
     }
 ]
