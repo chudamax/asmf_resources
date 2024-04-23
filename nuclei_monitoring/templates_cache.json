@@ -54538,5 +54538,14 @@
         "category": "workflows",
         "severity": "Unknown",
         "description": "This template is a workflow that allows enumeration of usage capabilities for an exposed Google API Key. A key found or discovered in front-end or source code can be validated for authorization of use and can also be used to make multiple requests and produce high bills for the owner if usage is unrestricted"
+    },
+    {
+        "creation_time": "2024-04-23T11:23:15+05:30",
+        "filepath": "http/exposed-panels/bonobo-server-panel.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/bonobo-server-panel.yaml",
+        "name": "bonobo-server-panel",
+        "category": "http",
+        "severity": "info",
+        "description": "Bonobo Git Server login panel was detected.\n"
     }
 ]
