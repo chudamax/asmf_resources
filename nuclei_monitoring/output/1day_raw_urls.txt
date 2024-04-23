@@ -1,1 +1,8 @@
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/bonobo-server-panel.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-2948.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/femtocell-panel.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-2949.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/cassia-bluetooth-gateway-panel.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-31446.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/titannit-web-exposure.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/titan/titannit-web-ssrf.yaml
