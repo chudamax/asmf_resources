@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/de
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/next-terminal/next-terminal-default-login.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/syfadis-xperience-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/miscellaneous/form-detection.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/privatebin-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/simplesamlphp-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/yourls-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/huatian/huatian-oa-sqli.yaml
