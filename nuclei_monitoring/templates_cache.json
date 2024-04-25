@@ -54637,5 +54637,23 @@
         "category": "http",
         "severity": "high",
         "description": "The flowise version <= 1.6.5 is vulnerable to authentication bypass vulnerability.\n"
+    },
+    {
+        "creation_time": "2024-04-24T18:10:10+05:30",
+        "filepath": "http/cves/2024/CVE-2024-1183.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-1183.yaml",
+        "name": "CVE-2024-1183",
+        "category": "http",
+        "severity": "medium",
+        "description": "An SSRF (Server-Side Request Forgery) vulnerability exists in the gradio-app/gradio repository, allowing attackers to scan and identify open ports within an internal network. By manipulating the 'file' parameter in a GET request, an attacker can discern the status of internal ports based on the presence of a 'Location' header or a 'File not allowed' error in the response.\n"
+    },
+    {
+        "creation_time": "2024-04-24T20:39:05+05:30",
+        "filepath": "http/cves/2024/CVE-2024-32399.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-32399.yaml",
+        "name": "CVE-2024-32399",
+        "category": "http",
+        "severity": "high",
+        "description": "Directory Traversal vulnerability in RaidenMAILD Mail Server v.4.9.4 and before allows a remote attacker to obtain sensitive information via the /webeditor/ component.\n"
     }
 ]
