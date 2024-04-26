@@ -23,12 +23,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/te
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/huatian/huatian-oa-sqli.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/cves/2019/CVE-2019-9193.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/minecraft-enum.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-default-db.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-file-read.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-list-database.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-list-password-hashes.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-list-users.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-version-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/pgsql-extensions-rce.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/postgresql-empty-password.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/udp/detection/tftp-detect.yaml
