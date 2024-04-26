@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/te
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/yourls-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/huatian/huatian-oa-sqli.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/cves/2019/CVE-2019-9193.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/cves/2020/CVE-2020-7247.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/minecraft-enum.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-default-db.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/pgsql/pgsql-file-read.yaml
