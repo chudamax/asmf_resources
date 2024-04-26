@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/crushftp/crushftp-default-login.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/crushftp/crushftp-anonymous-login.yaml
