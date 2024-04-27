@@ -19,7 +19,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/de
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/syfadis-xperience-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/simplesamlphp-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/yourls-detect.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/huatian/huatian-oa-sqli.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/minecraft-enum.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/pgsql-extensions-rce.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/postgresql-empty-password.yaml
