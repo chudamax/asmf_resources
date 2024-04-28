@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/uipath-orchestrator-panel.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/tixeo-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/bmc/bmc-remedy-sso-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/bonobo-server-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-2948.yaml
