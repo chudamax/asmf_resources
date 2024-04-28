@@ -19,7 +19,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/ex
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/simplesamlphp-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/yourls-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/minecraft-enum.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/pgsql-extensions-rce.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/misconfiguration/pgsql/postgresql-empty-password.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/udp/detection/tftp-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/c2/darkcomet-trojan.yaml
