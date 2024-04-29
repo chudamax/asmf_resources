@@ -23,7 +23,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/de
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/other/voyager-lfi.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-2879.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-3273.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/code/cves/2024/CVE-2024-3094.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/thanos-prometheus-exposure.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/helm-dashboard-exposure.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2022/CVE-2022-0424.yaml

@@ -34,7 +34,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/dlink-unauth-cgi-script.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/intelbras-dvr-unauth.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-3273.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/code/cves/2024/CVE-2024-3094.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/thanos-prometheus-exposure.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/beyondtrust-priv-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/zenml-dashboard-panel.yaml
