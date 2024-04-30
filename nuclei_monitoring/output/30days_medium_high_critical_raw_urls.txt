@@ -143,3 +143,8 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/crushftp/crushftp-default-login.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/crushftp/crushftp-anonymous-login.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-0235.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-32077.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/titan/titannit-web-rce.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-27956.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-31849.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-24131.yaml
