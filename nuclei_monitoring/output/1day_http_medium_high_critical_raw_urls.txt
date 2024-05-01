@@ -1,3 +1,1 @@
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/eyoucms-installer.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-38964.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-43208.yaml
