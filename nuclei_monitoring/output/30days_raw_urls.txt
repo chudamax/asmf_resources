@@ -11,7 +11,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-47218.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/3com/3Com-wireless-default-login.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/next-terminal/next-terminal-default-login.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/yourls-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/minecraft-enum.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/udp/detection/tftp-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10735.yaml
