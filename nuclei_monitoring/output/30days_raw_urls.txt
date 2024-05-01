@@ -16,10 +16,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/ex
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/yourls-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/enumeration/minecraft-enum.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/udp/detection/tftp-detect.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/c2/darkcomet-trojan.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/c2/darktrack-rat-trojan.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/c2/orcus-rat-trojan.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/c2/xtremerat-trojan.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10735.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10736.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10737.yaml
