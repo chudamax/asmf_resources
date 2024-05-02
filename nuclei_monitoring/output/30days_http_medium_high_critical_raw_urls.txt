@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10738.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-6605.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-7314.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2021/CVE-2021-46418.yaml
@@ -8,9 +7,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-47218.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/3com/3Com-wireless-default-login.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/next-terminal/next-terminal-default-login.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10735.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10736.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2018/CVE-2018-10737.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2022/CVE-2022-29013.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-29269.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/default-logins/3ware-default-login.yaml
