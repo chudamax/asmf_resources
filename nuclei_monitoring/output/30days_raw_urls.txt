@@ -131,7 +131,6 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/ta
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/algonomia-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/ollama-llm-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposures/apis/redfish-api.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/other/opencart-core-sqli.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/tibco-spotfire-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/javascript/cves/2023/CVE-2023-48795.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/chemotargets-clarityvista-panel.yaml
