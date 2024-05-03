@@ -54853,5 +54853,77 @@
         "category": "http",
         "severity": "critical",
         "description": "The Email Subscribers by Icegram Express - Email Marketing, Newsletters, Automation for WordPress & WooCommerce plugin for WordPress is vulnerable to SQL Injection via the 'run' function of the 'IG_ES_Subscribers_Query' class in all versions up to, and including, 5.7.14 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n"
+    },
+    {
+        "creation_time": "2024-04-30T19:49:12+03:00",
+        "filepath": "http/cves/2023/CVE-2023-5003.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-5003.yaml",
+        "name": "CVE-2023-5003",
+        "category": "http",
+        "severity": "high",
+        "description": "The Active Directory Integration / LDAP Integration WordPress plugin before 4.1.10 stores sensitive LDAP logs in a buffer file when an administrator wants to export said logs. Unfortunately, this log file is never removed, and remains accessible to any users knowing the URL to do so.\n"
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/cves/2015/CVE-2015-4455.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2015/CVE-2015-4455.yaml",
+        "name": "CVE-2015-4455",
+        "category": "http",
+        "severity": "critical",
+        "description": "Unrestricted file upload vulnerability in includes/upload.php in the Aviary Image Editor Add-on For Gravity Forms plugin 3.0 beta for WordPress allows remote attackers to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in wp-content/uploads/gform_aviary.\n"
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/cves/2019/CVE-2019-7139.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2019/CVE-2019-7139.yaml",
+        "name": "CVE-2019-7139",
+        "category": "http",
+        "severity": "critical",
+        "description": "An unauthenticated user can execute SQL statements that allow arbitrary read access to the underlying database, which causes sensitive data leakage.\n"
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/cves/2023/CVE-2023-27032.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-27032.yaml",
+        "name": "CVE-2023-27032",
+        "category": "http",
+        "severity": "critical",
+        "description": "In the module \u201cAdvanced Popup Creator\u201d (advancedpopupcreator) from Idnovate for PrestaShop, a guest can perform SQL injection in affected versions.\n"
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/cves/2023/CVE-2023-45375.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-45375.yaml",
+        "name": "CVE-2023-45375",
+        "category": "http",
+        "severity": "high",
+        "description": "In the module \u201cPireosPay\u201d (pireospay) up to version 1.7.9 from 01generator.com for PrestaShop, a guest can perform SQL injection in affected versions.\n"
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/cves/2023/CVE-2023-46347.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-46347.yaml",
+        "name": "CVE-2023-46347",
+        "category": "http",
+        "severity": "critical",
+        "description": "In the module \u201cStep by Step products Pack\u201d (ndk_steppingpack) up to 1.5.6 from NDK Design for PrestaShop, a guest can perform SQL injection in affected versions.\n"
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/vulnerabilities/prestashop/prestashop-cartabandonmentpro-file-upload.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/prestashop/prestashop-cartabandonmentpro-file-upload.yaml",
+        "name": "prestashop-cartabandonmentpro-file-upload",
+        "category": "http",
+        "severity": "critical",
+        "description": "No description available."
+    },
+    {
+        "creation_time": "2024-03-16T19:23:48+02:00",
+        "filepath": "http/vulnerabilities/vbulletin/vbulletin-search-sqli.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/vbulletin/vbulletin-search-sqli.yaml",
+        "name": "vbulletin-search-sqli",
+        "category": "http",
+        "severity": "high",
+        "description": "vBulletin 4 is vulnerable to an SQL injection vulnerability, which may allow an attacker can execute malicious SQL statements that control a web application's database server.\n"
     }
 ]
