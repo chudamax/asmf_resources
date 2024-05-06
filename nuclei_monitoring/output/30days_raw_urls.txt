@@ -174,3 +174,4 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-5003.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-2340.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/ CVE-2023-6389.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/cyberchef-panel.yaml
