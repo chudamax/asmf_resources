@@ -54970,5 +54970,14 @@
         "category": "http",
         "severity": "critical",
         "description": "VFS Sandbox Escape in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows remote attackers with low privileges to read files from the filesystem outside of VFS Sandbox.\n"
+    },
+    {
+        "creation_time": "2024-05-03T09:36:42-05:00",
+        "filepath": "http/takeovers/squadcast-takeover.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/takeovers/squadcast-takeover.yaml",
+        "name": "squadcast-takeover",
+        "category": "http",
+        "severity": "high",
+        "description": "No description available."
     }
 ]
