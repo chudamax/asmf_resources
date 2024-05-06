@@ -52,3 +52,4 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-4040.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/takeovers/squadcast-takeover.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-44812.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-22927.yaml
