@@ -12,3 +12,5 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cv
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-31848.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vulnerabilities/citrix/citrix-oob-memory-read.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/hikvision-env.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-0200.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/phpmyfaq-installer.yaml
