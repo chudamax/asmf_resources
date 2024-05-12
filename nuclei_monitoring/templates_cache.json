@@ -55276,5 +55276,14 @@
         "category": "http",
         "severity": "high",
         "description": "No description available."
+    },
+    {
+        "creation_time": "2024-05-10T12:31:42-05:00",
+        "filepath": "http/technologies/statamic-detect.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/statamic-detect.yaml",
+        "name": "statamic-detect",
+        "category": "http",
+        "severity": "info",
+        "description": "Statamic is the flat-first, Laravel + Git powered CMS designed for building beautiful, easy to manage websites.\n"
     }
 ]
