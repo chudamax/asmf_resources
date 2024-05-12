@@ -1,8 +1,8 @@
 rulesets:
 
-- id: default
+- id: custom
 
-  name: Nosey Parker default rules
+  name: Nosey Parker custom rules
 
   description: |
     This ruleset includes rules that detect secrets, such as API tokens and
