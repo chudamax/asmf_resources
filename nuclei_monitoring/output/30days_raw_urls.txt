@@ -83,3 +83,8 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/mi
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/phpmyfaq-installer.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/craftercms-panel.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/craftercms-detect.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/unigui-server-monitor-exposure.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-43374.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/unleash-panel.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/tinyproxy-detect.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/moosocial-installer.yaml

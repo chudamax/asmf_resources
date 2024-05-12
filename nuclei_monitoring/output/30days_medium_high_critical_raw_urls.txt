@@ -59,3 +59,5 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/vu
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/hikvision-env.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2024/CVE-2024-0200.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/phpmyfaq-installer.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-43374.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/moosocial-installer.yaml

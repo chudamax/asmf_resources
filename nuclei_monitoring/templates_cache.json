@@ -55222,5 +55222,59 @@
         "category": "http",
         "severity": "info",
         "description": "CrafterCMS was detected.\n"
+    },
+    {
+        "creation_time": "2024-05-12T13:37:48+05:30",
+        "filepath": "http/misconfiguration/unigui-server-monitor-exposure.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/unigui-server-monitor-exposure.yaml",
+        "name": "unigui-server-monitor-exposure",
+        "category": "http",
+        "severity": "low",
+        "description": "Detects exposed UniGUI Server Monitor Panels which could reveal sensitive server statistics, users sessions, licensing information and others data.\n"
+    },
+    {
+        "creation_time": "2024-05-09T17:03:01+05:30",
+        "filepath": "http/cves/2023/CVE-2023-43374.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-43374.yaml",
+        "name": "CVE-2023-43374",
+        "category": "http",
+        "severity": "critical",
+        "description": "Hoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability via the id_utente_log parameter at /hoteldruid/personalizza.php.\n"
+    },
+    {
+        "creation_time": "2024-05-12T09:43:25+03:30",
+        "filepath": "http/exposed-panels/unleash-panel.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/unleash-panel.yaml",
+        "name": "unleash-panel",
+        "category": "http",
+        "severity": "info",
+        "description": "Open-source feature management solution built for developers.\n"
+    },
+    {
+        "creation_time": "2024-05-09T17:55:17+00:00",
+        "filepath": "http/technologies/tinyproxy-detect.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/tinyproxy-detect.yaml",
+        "name": "tinyproxy-detect",
+        "category": "http",
+        "severity": "info",
+        "description": "Lightweight HTTP/HTTPS proxy daemon for POSIX operating systems\n"
+    },
+    {
+        "creation_time": "2021-05-31T12:34:09+05:30",
+        "filepath": "dns/dns-waf-detect.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/dns/dns-waf-detect.yaml",
+        "name": "dns-waf-detect",
+        "category": "dns",
+        "severity": "info",
+        "description": "A DNS WAF was detected."
+    },
+    {
+        "creation_time": "2024-05-10T16:49:20+05:30",
+        "filepath": "http/misconfiguration/installer/moosocial-installer.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/moosocial-installer.yaml",
+        "name": "moosocial-installer",
+        "category": "http",
+        "severity": "high",
+        "description": "No description available."
     }
 ]
