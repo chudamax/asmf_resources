@@ -1,4 +1,2 @@
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/craftercms-panel.yaml
-https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/craftercms-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/unigui-server-monitor-exposure.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/unleash-panel.yaml
