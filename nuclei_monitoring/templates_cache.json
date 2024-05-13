@@ -55303,5 +55303,14 @@
         "category": "http",
         "severity": "info",
         "description": "QlikView AccessPoint login panel was detected.\n"
+    },
+    {
+        "creation_time": "2024-05-13T08:57:45+03:30",
+        "filepath": "http/exposed-panels/nocodb-panel.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/nocodb-panel.yaml",
+        "name": "nocodb-panel",
+        "category": "http",
+        "severity": "info",
+        "description": "NocoDB Login panel was discovered.\n"
     }
 ]
