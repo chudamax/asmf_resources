@@ -1,0 +1,21 @@
+rules:
+
+- name: Generic API Key - custom
+  id: chudamax.generic.1
+
+  pattern: |
+    (?x)(?i)
+    (?: api-key | access-key )
+    .{0,3}
+    [\ \t]* (?: : | = | := | => | , | ' | " ) [\ \t]*
+    .{0,3}
+    \b
+    ([0-9a-z][0-9a-z\-._/+]{30,62}[0-9a-z])
+    \b
+
+  examples:
+  - 'API-KEY = "951bc382db9abad29c68634761dd6e19"'
+  - 'buildConfigField ''String'' , ''API-KEY'' , ''"951bc382db9cfee29c68634761dd6e19"''	API-KEY	'
+
+  negative_examples:
+  - 'name="ws_plugin__s2member_amazon_s3_comp_files_access-key" id="ws-plugin--s2member-amazon-s3-comp-files-access-key"'
