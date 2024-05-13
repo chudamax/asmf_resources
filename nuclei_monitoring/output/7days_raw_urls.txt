@@ -24,3 +24,5 @@ https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/ex
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/tinyproxy-detect.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/misconfiguration/installer/moosocial-installer.yaml
 https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/technologies/statamic-detect.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-36347.yaml
+https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/qlikview-accesspoint-panel.yaml

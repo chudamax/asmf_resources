@@ -55285,5 +55285,23 @@
         "category": "http",
         "severity": "info",
         "description": "Statamic is the flat-first, Laravel + Git powered CMS designed for building beautiful, easy to manage websites.\n"
+    },
+    {
+        "creation_time": "2024-05-13T09:13:34+05:30",
+        "filepath": "http/cves/2023/CVE-2023-36347.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-36347.yaml",
+        "name": "CVE-2023-36347",
+        "category": "http",
+        "severity": "high",
+        "description": "A broken authentication mechanism in the endpoint excel.php of POS Codekop v2.0 allows unauthenticated attackers to download selling data.\n"
+    },
+    {
+        "creation_time": "2024-05-12T19:48:47+02:00",
+        "filepath": "http/exposed-panels/qlikview-accesspoint-panel.yaml",
+        "raw_url": "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/exposed-panels/qlikview-accesspoint-panel.yaml",
+        "name": "qlikview-accesspoint-panel",
+        "category": "http",
+        "severity": "info",
+        "description": "QlikView AccessPoint login panel was detected.\n"
     }
 ]
